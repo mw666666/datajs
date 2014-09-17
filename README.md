@@ -12,7 +12,7 @@ Data.js 是一个以数据为中心的mvvm库。
 
 ``` html
 <div id="demo">
-    {{message}}
+    <span d-text="message"></span>
     <input d-value="message">
 </div>
 ```
