@@ -23,4 +23,4 @@ var demo = D.dataBind({message: 'Hello Data.js!'}, '#demo')
 
 
 
-## 更多demo 请看sdemo或访问<a href="http://www.sdemo.cn">www.sdemo.cn</a>
+## 更多demo 请访问<a href="http://sdemos.duapp.com/">SDemo</a>(<a href="http://sdemos.duapp.com/">www.sdemo.cn</a>)
